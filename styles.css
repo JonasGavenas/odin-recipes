@@ -1,0 +1,21 @@
+body {
+    background-color: hsla(175, 86%, 65%, 0.45);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(32, 77, 238);
+}
+
+li {
+    color:rgb(238, 32, 224);
+}
+
+a {
+    color: rgb(32, 77, 238);
+}
+
+li {
+    height: 30px;
+}
+
